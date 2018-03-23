@@ -1,11 +1,11 @@
 package problemAnalyser;
 
-import java.util.Collection;
-import java.util.List;
-
 import edu.stanford.nlp.ling.IndexedWord;
 import edu.stanford.nlp.trees.TreeGraphNode;
 import edu.stanford.nlp.trees.TypedDependency;
+
+import java.util.Collection;
+import java.util.List;
 
 public class QuantitativeEntity {
 	

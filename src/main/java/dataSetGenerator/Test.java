@@ -1,15 +1,10 @@
 package dataSetGenerator;
 
-import java.io.File;
-
-import java.io.FileNotFoundException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Scanner;
-import java.util.StringTokenizer;
-
 import equationExtraction.World;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.*;
 
 public class Test {
 	static ArrayList<HashSet<String>> ops;
